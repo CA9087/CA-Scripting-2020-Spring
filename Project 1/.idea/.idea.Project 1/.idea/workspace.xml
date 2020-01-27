@@ -12,6 +12,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartFunction.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -21,6 +22,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/New Class.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StartFunction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
       </list>
     </option>
   </component>
@@ -74,6 +76,7 @@
       <workItem from="1579108894591" duration="415000" />
       <workItem from="1579109337198" duration="1294000" />
       <workItem from="1579715002479" duration="2255000" />
+      <workItem from="1580146253389" duration="2529000" />
     </task>
     <servers />
   </component>
