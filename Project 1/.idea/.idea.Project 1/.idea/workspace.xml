@@ -12,9 +12,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartFunction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterControls.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -23,6 +24,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StartFunction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterControls.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +79,7 @@
       <workItem from="1579109337198" duration="1294000" />
       <workItem from="1579715002479" duration="2255000" />
       <workItem from="1580146253389" duration="2529000" />
+      <workItem from="1580750605125" duration="3381000" />
     </task>
     <servers />
   </component>
@@ -100,6 +103,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
